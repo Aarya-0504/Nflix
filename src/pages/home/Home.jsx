@@ -10,13 +10,12 @@ const Home = () => {
         
         <div className="home">
             <NavBar/>
-            <div className='container'>
-                    <Featured/>
-                    <List/>
-                    <List/>
-                    <List/>
-                    <List/>
-        </div> 
+            <Featured/>
+            <List/>
+            <List/>
+            <List/>
+            <List/>                              
+         
             {/* <AcUnitIcon/> */}
         </div>
     )
