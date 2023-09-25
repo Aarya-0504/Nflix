@@ -7,8 +7,8 @@ import Watch from './pages/watch/Watch';
 function App() {
   return (
     <div className='App'>
-      {/* <Home/> */}
-      <Watch/>
+      <Home/>
+      {/* <Watch/> */}
     </div>
   );
 }
